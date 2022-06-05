@@ -1,4 +1,4 @@
-## week04_translate
+## translate
 ```cpp
 #include <GL/glut.h>
 void display()
@@ -26,6 +26,7 @@ int main(int argc, char** argv)
 }
 ```
 
+## coordinate
 ```cpp
 #include <GL/glut.h>
 void myTeapot(float x, float y)
@@ -60,6 +61,7 @@ int main(int argc, char** argv)
 }
 ```
 
+## mouse
 ```cpp
 #include <GL/glut.h>
 #include <stdio.h>
@@ -88,6 +90,7 @@ int main(int argc, char** argv)
 
 ```
 
+## mouseTeapot
 ```cpp
 #include <GL/glut.h>
 #include <stdio.h>
@@ -121,6 +124,7 @@ int main(int argc, char** argv)
 
 ```
 
+## mousedraw
 ```cpp
 #include <GL/glut.h>
 #include <stdio.h>
