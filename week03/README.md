@@ -1,3 +1,4 @@
+[week03 Blogger](https://2022graphicsb.blogspot.com/2022/03/6z0-week02.html)
 ## color
 ```cpp
 #include <GL/glut.h>
