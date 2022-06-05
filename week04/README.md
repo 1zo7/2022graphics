@@ -1,4 +1,4 @@
-```
+```cpp
 #include <GL/glut.h>
 void display()
 {
@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 }
 ```
 
-```
+```cpp
 #include <GL/glut.h>
 void myTeapot(float x, float y)
 {
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
 }
 ```
 
-```
+```cpp
 #include <GL/glut.h>
 #include <stdio.h>
 void display()
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
 
 ```
 
-```
+```cpp
 #include <GL/glut.h>
 #include <stdio.h>
 int mouseX=0, mouseY=0;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
 
 ```
 
-```
+```cpp
 #include <GL/glut.h>
 #include <stdio.h>
 int mouseX=0, mouseY=0, N=0;
