@@ -1,3 +1,4 @@
+[week04 Blogger](https://2022graphicsb.blogspot.com/2022/03/6z0-week04.html)
 ## translate
 ```cpp
 #include <GL/glut.h>
