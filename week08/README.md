@@ -1,6 +1,6 @@
 [week08 Blogger](https://2022graphicsb.blogspot.com/2022/04/6z0-week08.html)
 
-## 
+## light
 ```cpp
 #include <GL/glut.h>
 const GLfloat light_ambient[]  = { 0.0f, 0.0f, 0.0f, 1.0f };
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 
 ```
 
-## 
+## model
 ```cpp
 #include <GL/glut.h>
 #include "glm.h"
