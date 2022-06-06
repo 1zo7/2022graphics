@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+924330300 source:c:\users\zi120\desktop\week10\week10_texture_model\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+924330300 c:\users\zi120\desktop\week10\week10_texture_model\glm.h
+	<GL/glut.h>
+
+1653113928 c:\users\zi120\desktop\other\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1653113928 c:\users\zi120\desktop\other\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1654518912 source:c:\users\zi120\desktop\week10\week10_texture_model\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+	"glm.h"
+
