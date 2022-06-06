@@ -1,4 +1,4 @@
-[week10 Blogger]()
+[week10 Blogger](https://2022graphicsb.blogspot.com/2022/04/6z0-week10.html)
 
 ## texture_background
 ```c
