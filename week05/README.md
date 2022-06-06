@@ -1,3 +1,5 @@
+[week05 Blogger](https://2022graphicsb.blogspot.com/2022/03/6z0-week05.html)
+
 ## rotate
 ```cpp
 #include <GL/glut.h>
