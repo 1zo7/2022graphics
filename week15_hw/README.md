@@ -1,3 +1,4 @@
+
 #include <opencv/cv.h>
 #include <opencv/highgui.h>
 #include <GL/glut.h>
@@ -271,3 +272,4 @@ int main(int argc,char ** argv)
 
     glutMainLoop();
 }
+```
